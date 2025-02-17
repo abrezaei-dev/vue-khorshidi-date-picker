@@ -1,0 +1,27 @@
+{
+  "name": "vue-khorshidi-date-picker",
+  "version": "1.0.0",
+  "description": "This is a Jalali date picker(Vue Component)",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "peerDependencies": {
+    "vue": "^3.5.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abrezaei-dev/vue-khorshidi-date-picker.git"
+  },
+  "keywords": [],
+  "author": "Ab Rezaei",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.1.0"
+  }
+}
